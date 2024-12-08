@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwalkum=self.webpackChunkwalkum||[]).push([[293],{9639:function(e,t,n){n.r(t),n.d(t,{Head:function(){return r}});var a=n(6540),l=(n(4810),n(6836),n(6474),n(2342)),u=n(2471);t.default=()=>a.createElement("main",null,a.createElement(u.A,{title:"The Sour Patch",description:"A Sourdough Bakery",pathname:"/"}),a.createElement(l.A,null));const r=()=>a.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-05f44a93d596868283f8.js.map

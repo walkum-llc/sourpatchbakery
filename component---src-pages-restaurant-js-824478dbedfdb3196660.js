@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwalkum=self.webpackChunkwalkum||[]).push([[340],{2440:function(e,u,l){l.r(u);var a=l(6540),k=l(2342);u.default=()=>a.createElement(k.A,null)}}]);
+//# sourceMappingURL=component---src-pages-restaurant-js-824478dbedfdb3196660.js.map
